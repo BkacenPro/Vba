@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-header('Access-Control-Allow-Origin: https://code-ba0c3.web.app/');
+header('Access-Control-Allow-Origin: https://code-ba0c3.web.app');
 header("Access-Control-Allow-Headers: *");
 
 include 'DbConnect.php';
